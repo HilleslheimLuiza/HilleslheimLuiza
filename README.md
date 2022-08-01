@@ -1,0 +1,5 @@
+- Sobre mim 👍
+- 👋 Hi, I’m **Luiza**
+- 📫 my email luiza.hillesheim@escola.pr.gov.br
+- 👀 I'm interested in learning to new languages
+- 👍 I'm recently learncing to program the JavaScript and Scratch language
